@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sunil-kumar-garg
+- 👋 Hi, I’m Sunil Garg
 - 👀 I’m interested in new technologies
 - 🌱 I’m currently learning web technologies and securities
 - 💞️ I’m looking to collaborate on some online tools that I am planning to create.
